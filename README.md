@@ -13,7 +13,7 @@ A simple yet fun **Snake-inspired snack game** built using **HTML, CSS, and Java
 ![Game Preview](img/SnackGame.png)
 
 ## 🚀 Live Demo
-🔗 **Play Now:** [START->](https://js-snackgame-viru.netlify.app/)
+🔗 **Play Now:** [**START**](https://js-snackgame-viru.netlify.app/)
 
 ## ⚡ How to Play?
 1. **Start the game** – The snake appears on the screen.
